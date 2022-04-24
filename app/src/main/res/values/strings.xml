@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lv5kotlin2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="btn_camera_text">Take a photo</string>
+    <string name="default_location_text">Address details</string>
+</resources>
